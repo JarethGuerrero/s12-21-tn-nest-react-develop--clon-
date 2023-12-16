@@ -1,0 +1,52 @@
+[
+    {
+        "name": "FrontEnd",
+        "author": "John Doe",
+        "year": "2015"
+    },
+    {
+        "name": "Diseño UX/UI",
+        "author": "Jane Smith",
+        "year": "2018"
+    },
+    {
+        "name": "Analítica web",
+        "author": "Michael Johnson",
+        "year": "2012"
+    },
+    {
+        "name": "BackEnd",
+        "author": "Sarah Adams",
+        "year": "2019"
+    },
+    {
+        "name": "Arquitectura de Software",
+        "author": "Robert Brown",
+        "year": "2017"
+    },
+    {
+        "name": "Data Science",
+        "author": "Emily Davis",
+        "year": "2016"
+    },
+    {
+        "name": "Tech Mentoring: A Practical Guide",
+        "author": "David Wilson",
+        "year": "2014"
+    },
+    {
+        "name": "The Mentoring Mindset",
+        "author": "Jennifer Lee",
+        "year": "2013"
+    },
+    {
+        "name": "Tech Mentoring for Dummies",
+        "author": "William Thompson",
+        "year": "2020"
+    },
+    {
+        "name": "Mentoring in the IT Industry",
+        "author": "Karen White",
+        "year": "2011"
+    }
+]
